@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessMaze.Board" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAEAAAAIACAAAAAAAoAgCIAAAAAhAAAA=</HashCode>
+      <FileName>GamePlayer\Models\Board.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rules" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessMaze.Game" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAgBAAAAQAkACAGAAEEAgAAQAIQAIDCACA=</HashCode>
+      <FileName>GamePlayer\Models\Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CurrentLevel" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="moveHistory" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessMaze.Level" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQEAAAAAABAAgAAAAAAAAAABAAAAAAASAAAAA=</HashCode>
+      <FileName>GamePlayer\Models\Level.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Board" />
+      <Property Name="EndPosition" />
+      <Property Name="StartPosition" />
+      <Property Name="Player" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessMaze.Piece" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Models\Piece.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Type" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessMaze.Player" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAIAAAAAAAAAAAAAAAAAAAhAAAAIQAAQAAAA=</HashCode>
+      <FileName>GamePlayer\Models\Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rules" />
+      <Property Name="CurrentPosition" />
+      <Property Name="PieceType" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessMaze.Position" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgABAAAAAAAAAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Models\Position.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessMaze.Rules">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Models\Rules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMaze.Move">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\Move.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="From" />
+      <Property Name="To" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="ChessMaze.IBoard" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAIACAAAAAAAoAgCIAAAAAhAAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\IBoard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ChessMaze.IGame" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgBAAAAQAAAAAGAAAEAgAAAAAQAIDCAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\IGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ChessMaze.ILevel" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQEAAAAAABAAgAAAAAAAAAABAAAAAAASAAAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\ILevel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ChessMaze.IPiece" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\IPiece.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ChessMaze.IPlayer" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAAAAAAAAAAAAAAhAAAAAQAAQAAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ChessMaze.IPosition" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Interfaces\IPosition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ChessMaze.PieceType" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEggAAAAEIAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamePlayer\Enums\PieceType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

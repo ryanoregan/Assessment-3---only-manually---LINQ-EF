@@ -1,0 +1,107 @@
+{
+  "Board": [
+    {
+      "Type": "Rook",
+      "Position": {
+        "Row": 0,
+        "Column": 0
+      }
+    },
+    {
+      "Type": "Knight",
+      "Position": {
+        "Row": 0,
+        "Column": 1
+      }
+    },
+    {
+      "Type": "Rook",
+      "Position": {
+        "Row": 2,
+        "Column": 0
+      }
+    },
+    {
+      "Type": "Bishop",
+      "Position": {
+        "Row": 2,
+        "Column": 3
+      }
+    },
+    {
+      "Type": "King",
+      "Position": {
+        "Row": 3,
+        "Column": 4
+      }
+    },
+    {
+      "Type": "Pawn",
+      "Position": {
+        "Row": 4,
+        "Column": 2
+      }
+    },
+    {
+      "Type": "Bishop",
+      "Position": {
+        "Row": 5,
+        "Column": 5
+      }
+    },
+    {
+      "Type": "Knight",
+      "Position": {
+        "Row": 6,
+        "Column": 1
+      }
+    },
+    {
+      "Type": "Rook",
+      "Position": {
+        "Row": 7,
+        "Column": 0
+      }
+    },
+    {
+      "Type": "Bishop",
+      "Position": {
+        "Row": 7,
+        "Column": 7
+      }
+    }
+  ],
+  "MoveHistory": [
+    {
+      "From": {
+        "Row": 2,
+        "Column": 0
+      },
+      "To": {
+        "Row": 2,
+        "Column": 3
+      }
+    },
+    {
+      "From": {
+        "Row": 0,
+        "Column": 1
+      },
+      "To": {
+        "Row": 2,
+        "Column": 0
+      }
+    },
+    {
+      "From": {
+        "Row": 0,
+        "Column": 0
+      },
+      "To": {
+        "Row": 0,
+        "Column": 1
+      }
+    }
+  ],
+  "CurrentLevel": 1
+}

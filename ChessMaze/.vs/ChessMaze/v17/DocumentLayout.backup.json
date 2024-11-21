@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\migrations\\20241113235358_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:migrations\\20241113235358_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\migrations\\20241113235358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:migrations\\20241113235358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\database\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\database\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\views\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\views\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\views\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\views\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\gameplayer\\views\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\views\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\filehandler\\models\\gamefilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:filehandler\\models\\gamefilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\level_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:level_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\filehandler\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:filehandler\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\filehandler\\models\\piecestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:filehandler\\models\\piecestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\level_2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:level_2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\filehandler\\models\\movestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:filehandler\\models\\movestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\interfaces\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\interfaces\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\gameplayer\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:gameplayer\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|c:\\users\\ryan\\onedrive - ara institute of canterbury\\bcde222 - c#\\assessment 3\\assessment 3 - only manually - linq\u002Bef\\chessmaze\\level_3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{909D253E-D455-4CE1-B768-CDF572BF6BC8}|ChessMaze.csproj|solutionrelative:level_3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level_1.json",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Level_1.json",
+              "RelativeDocumentMoniker": "Level_1.json",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Level_1.json",
+              "RelativeToolTip": "Level_1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T10:14:00.466Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:19:06.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Views\\GameForm.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Views\\GameForm.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Views\\GameForm.cs",
+              "RelativeToolTip": "GamePlayer\\Views\\GameForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:54:27.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Database\\Movement.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Database\\Movement.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Database\\Movement.cs",
+              "RelativeToolTip": "GamePlayer\\Database\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:59:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:35:09.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241113235358_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Migrations\\20241113235358_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241113235358_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Migrations\\20241113235358_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241113235358_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:35:01.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241113235358_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Migrations\\20241113235358_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241113235358_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Migrations\\20241113235358_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241113235358_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:53:59.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Rules.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Models\\Rules.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Rules.cs",
+              "RelativeToolTip": "GamePlayer\\Models\\Rules.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwE0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:42:12.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Position.cs",
+              "RelativeToolTip": "GamePlayer\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:42:01.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Player.cs",
+              "RelativeToolTip": "GamePlayer\\Models\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:40:53.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Level_3.json",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Level_3.json",
+              "RelativeDocumentMoniker": "Level_3.json",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Level_3.json",
+              "RelativeToolTip": "Level_3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T09:09:54.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IView.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Interfaces\\IView.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Interfaces\\IView.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Interfaces\\IView.cs",
+              "RelativeToolTip": "GamePlayer\\Interfaces\\IView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:55:56.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Models\\Game.cs",
+              "RelativeToolTip": "GamePlayer\\Models\\Game.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwFQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:26:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GamePlayer\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAiwAYBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:25:53.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GamePlayer\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:11:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MoveState.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\MoveState.cs",
+              "RelativeDocumentMoniker": "FileHandler\\Models\\MoveState.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\MoveState.cs",
+              "RelativeToolTip": "FileHandler\\Models\\MoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:44:19.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Level_2.json",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Level_2.json",
+              "RelativeDocumentMoniker": "Level_2.json",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\Level_2.json",
+              "RelativeToolTip": "Level_2.json",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwEoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T11:20:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Views\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Views\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Views\\GameForm.Designer.cs",
+              "RelativeToolTip": "GamePlayer\\Views\\GameForm.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAYwMcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:57:22.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Views\\GameForm.cs",
+              "RelativeDocumentMoniker": "GamePlayer\\Views\\GameForm.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\GamePlayer\\Views\\GameForm.cs [Design]",
+              "RelativeToolTip": "GamePlayer\\Views\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:05:14.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\GameFileHandler.cs",
+              "RelativeDocumentMoniker": "FileHandler\\Models\\GameFileHandler.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\GameFileHandler.cs",
+              "RelativeToolTip": "FileHandler\\Models\\GameFileHandler.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:01:48.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PieceState.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\PieceState.cs",
+              "RelativeDocumentMoniker": "FileHandler\\Models\\PieceState.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\PieceState.cs",
+              "RelativeToolTip": "FileHandler\\Models\\PieceState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:48:16.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\GameState.cs",
+              "RelativeDocumentMoniker": "FileHandler\\Models\\GameState.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - Ara Institute of Canterbury\\BCDE222 - C#\\Assessment 3\\Assessment 3 - only manually - LINQ\u002BEF\\ChessMaze\\FileHandler\\Models\\GameState.cs",
+              "RelativeToolTip": "FileHandler\\Models\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:44:15.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
